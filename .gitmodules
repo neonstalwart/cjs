@@ -1,0 +1,6 @@
+[submodule "demo/uglify"]
+	path = demo/uglify
+	url = git://github.com/mishoo/UglifyJS.git
+[submodule "demo/requirejs"]
+	path = demo/requirejs
+	url = git://github.com/jrburke/requirejs.git
